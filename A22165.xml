@@ -1,0 +1,867 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A litell treatyse of astrouomy [sic] very necessary for physyke and surgerye, declarynge what herbes, and all kynde of medecynes are appropryate and vnder the influence of the planetes, sygnes and constellacyons : and also the partes and members of the bodye thereto correspondynge, and howe ye shall brynge the vertue of the heuens aud [sic] nature of the sters to euery parte of mans bodye beynge deseasad or sycke to the soner recoueraunce of helth : and also howe to chose the most luckey dayes and tymes for the aboue sayde, the whiche shal be appoynted by the almanacke yerelye, accordynge to the course of the moone, passynge by all the signes and sterres in one reuolucion / gathered and set forth by Anthony Askham physicio[n] ...</title>
+            <author>Askham, Anthony, fl. 1553.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22165</idno>
+            <idno type="STC">STC 857A.5</idno>
+            <idno type="STC">ESTC S645</idno>
+            <idno type="EEBO-CITATION">22102524</idno>
+            <idno type="OCLC">ocm 22102524</idno>
+            <idno type="VID">25054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1762:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A litell treatyse of astrouomy [sic] very necessary for physyke and surgerye, declarynge what herbes, and all kynde of medecynes are appropryate and vnder the influence of the planetes, sygnes and constellacyons : and also the partes and members of the bodye thereto correspondynge, and howe ye shall brynge the vertue of the heuens aud [sic] nature of the sters to euery parte of mans bodye beynge deseasad or sycke to the soner recoueraunce of helth : and also howe to chose the most luckey dayes and tymes for the aboue sayde, the whiche shal be appoynted by the almanacke yerelye, accordynge to the course of the moone, passynge by all the signes and sterres in one reuolucion / gathered and set forth by Anthony Askham physicio[n] ...</title>
+                  <author>Askham, Anthony, fl. 1553.</author>
+               </titleStmt>
+               <extent>[56] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Imprynted at London in Fletestrete at the signe of the George nexte to Saynte Dunstones Churche by Wyllyam Powell,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M.D.L. the xx. day of Marche [20 Mar. 1550]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Signatures: A-C⁸ D⁴.</note>
+                  <note>Reproduction of original in the University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medical astrology --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25054:1" rendition="simple:additions"/>
+            <pb facs="tcp:25054:1"/>
+            <pb facs="tcp:25054:2"/>
+            <pb facs="tcp:25054:2" rendition="simple:additions"/>
+            <p>A LITELL treatyſe of Aſtronomy, very neceſ<g ref="char:EOLhyphen"/>ſary for Phyſyke and Surgerye, declarynge what herbes, and all kynde of medecynes are appropryate and vnder the influence of the Planetes, ſygnes and conſtellacyons. And alſo the partes and members of the bodye thereto correſpondynge, and howe ye ſhall brynge the vertue of the Heuens and nature of the Sters to euery parte of mans bodye beynge deſeaſed or ſycke to the ſoner recoueraunce of helth. And alſo howe to choſe the moſt luc<g ref="char:EOLhyphen"/>key dayes and tymes for the a<g ref="char:EOLhyphen"/>boue ſayde, the whiche ſhal<g ref="char:EOLhyphen"/>be appoynted by the Al<g ref="char:EOLhyphen"/>manacke yerelye, accordynge to the courſe of the Moone, paſſynge by all the Signes and Sterres in one reuolucion gathered and ſet forth by ANTHO<g ref="char:EOLunhyphen"/>NY ASKHAM Phyſicio<g ref="char:cmbAbbrStroke">̄</g> in the yere of our Lorde God M. D. L. the twelfe day of Februarye.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:25054:3"/>
+            <byline>☞ THOMAS PAYNEL</byline>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Repulſe the begynnyng of euery malady</l>
+               <l>For medecines miniſtred not in dewe ſeaſon.</l>
+               <l>Dothe not relyeue or helpe the myſery</l>
+               <l>Of ſuche as hath by longe contraction</l>
+               <l>Dyfferred the tyme of myniſtracion.</l>
+               <l>Wherby theyr maladye fercely myght increſe</l>
+               <l>Nature corrupted the bodye to deface.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> In tyme to minyſter medecynes the ſicke doth relyeue</l>
+               <l>And wine out of tyme dothe the much domage</l>
+               <l>Increaſe of paynes the pacyent dothe achieue</l>
+               <l>But in tyme to take plaſture the ſore doth aſ<g ref="char:EOLhyphen"/>ſwage</l>
+               <l>Al thynges in ſeaſon ſhulde haue theyr paſſage</l>
+               <l>Remedy for deſeaſe in tyme to procure.</l>
+               <l>Thus all thynges are ſubiecte to tyme and to meaſure.</l>
+            </lg>
+            <trailer>¶ Finis ꝙ Thomas Paynel.</trailer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:25054:3" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g>: THE EPISTLE to the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is manyfeſte and well knowen, good Reder, that al herbes ſtones, gummes, and metalles, hath theyr generacions, diſpoſi<g ref="char:EOLhyphen"/>cyons, vertues and proprietyes of the Sonne, Moone, and Sterres, ſo that euery herbe hathe certayne Sterres appropryate and addicte vnto them, of whom they receyue ſuche influence and operacyon, as is accordynge to the nature of the Sterres, the whiche is knowen of longe tyme by dayly experience, in conſideryng theyr mouinges, their co<g ref="char:cmbAbbrStroke">̄</g>iunctions and aſpectes. And alſo markyng theyr influences, and pro<g ref="char:EOLunhyphen"/>pertes at ſuch lyke tymes aforſaid Alſo by further experie<g ref="char:cmbAbbrStroke">̄</g>ce, the Phy<g ref="char:EOLhyphen"/>loſopher hath founde forth ſeuen
+<pb facs="tcp:25054:4"/> Sterres orrotical in ſeuen ſeueral heauens or ſperes, and of ſundrye influences and operacions, and ac<g ref="char:EOLhyphen"/>cordynge to ſuche men of ſuch lyke condycyon, they haue gyuen them names, as Saturne, Iupiter, and Mars, and ſo furth.</p>
+            <p>Alſo all the reſt of the Sterres are fyxed in the eyght heauen, or ſpere emonges whom are ymagened. xii. beaſtes called ſygnes, and. xxviii. other conſtellacions, and by ſuche lyke experyence of influences, hath named a certayne no<g ref="char:cmbAbbrStroke">̄</g>ber of Sterres to be a Ramme, to be a Bull, to be a Lyon, to be a Scorpion, to be a Beare, to be a Dogge and ſo forth Alſo the heauenlye Sterres hath certayne commyxtion with the ele<g ref="char:EOLhyphen"/>mentes, and the Elementes with them, ſo that all thynges made of the Elementes, receyueth certayne qualytes and operacions ſenſible, by an Elementall power, and alſo they
+<pb facs="tcp:25054:4" rendition="simple:additions"/> receyue certayne operacyons, and vertues inſencible and occulte, by a celeſtiall and heauenly power, as all herbes and medecines ſolutiſſe are either, hote, dry, moyſt, or colde, by the elementall power, and alſo by the celeſtyal power, ſome purge color, ſome melancoly, ſome fleume and ſome from the head, ſome from the ſtomake, ſome from the herte, ſome from the lyuer, and ſo forth of the whiche no man knoweth no o<g ref="char:EOLhyphen"/>ther cauſe but the alonely proper<g ref="char:EOLhyphen"/>tye and vertue of the heauens.</p>
+            <p>Alſo furthermore it is knowne and experte howe the planetes ſygnes, and conſtellacions doth worke per<g ref="char:EOLunhyphen"/>ticulerly in diuers partes of mans bodye, and ſpecially the ſeuen pla<g ref="char:EOLhyphen"/>netes, vnto whoſe influence all o<g ref="char:EOLhyphen"/>ther Sterres are obedyente and a<g ref="char:EOLunhyphen"/>greable, furthermore knowe that the Sonne, and Moone are cheife of al other planetes, for the Sonne
+<pb facs="tcp:25054:5"/> is the miniſter of al lyuely proper<g ref="char:EOLhyphen"/>tye, and giueth al thinges lyfe, and makethe all herbes to growe, tyl they come to their perfection.</p>
+            <p>Alſo the Sonne draweth firſt fro<g ref="char:cmbAbbrStroke">̄</g> the roote the lyuely moyſture, that maketh the herbe to growe, &amp; wax.</p>
+            <p>Saturne holdeth the mater toge<g ref="char:EOLunhyphen"/>ther in the roote ſtalke and leaues.</p>
+            <p>Iupiter geueth the temperature, benefete, ſhap, and faſſhyon, and the ayrie humour and ſmell.</p>
+            <p>Mars hardeneth and gyueth the wooddy ſtalkes and ſtrength.</p>
+            <p>The Sonne gyueth a contynu<g ref="char:EOLhyphen"/>al increaſe of lyfe, by a liuely hete.</p>
+            <p>Venus gyueth the flowers, fayre<g ref="char:EOLhyphen"/>nes and temperate humour.</p>
+            <p>Mercurye geueth the barke and ſede, the preueand occulte properte</p>
+            <p>The Moone geueth the leaues, and warry humoure.</p>
+            <p>And thus vnderſtande of all other thinges bothe of ſtones, gummes,
+<pb facs="tcp:25054:5" rendition="simple:additions"/> and metalles, and alſo of the body and ſundrye partes of mankynde, furthermore knowe that the fyrſte and moſt pryncypall workeman is the father of heauen, the which ha<g ref="char:EOLhyphen"/>uyng in the Godhead, in the mynd deuine, and in the henuen arche<g ref="char:EOLhyphen"/>typi, the edees ſimylytudes, and the ymages of all thynges create, before the creation of the worlde, the whiche at the proper inſtant of the creatyon he hath infuſed theſe ſymylitudes and ymages, beynge euen percelles, and powers of the Godhead in all his creatures, and as he hathe made all thynges of nought, ſo are yet al thi<g ref="char:cmbAbbrStroke">̄</g>gꝭ nought, the whiche wanteth theſe edees, ſi<g ref="char:EOLhyphen"/>militudes, ymages and powers of the Godheade, for he is <hi>Omnia in omnibus,</hi> ſecondarye he hath create inſtrumentes as ſecond cauſes the which are the Sonne, Moone, and Sterres, whoſe matter, influence
+<pb facs="tcp:25054:6"/> and operacyons is nothynge but by his power infuſed, the which he hath made alonelye to declare his glory and hyghe workemanſhippe to his intellectyfe creatnes.</p>
+            <p>Alſo knowe that the Sonne is the princypall workeman of God, and the planetes are inſtrumentes and toles wherewith the Sonne wor<g ref="char:EOLhyphen"/>keth, and the ſignes and conſtella<g ref="char:EOLhyphen"/>tions are other meane inſtrumen<g ref="char:EOLhyphen"/>tes to the planetes, and the Ele<g ref="char:EOLhyphen"/>ment are the mater that they worke vpon, and all thynges made of the foure elementes, are the ſubſtaun<g ref="char:EOLhyphen"/>ces and bodyes with lyfe ſchape &amp; faryon that they make of the Ele<g ref="char:EOLhyphen"/>mentes, as man, beaſt, fyſhe, fowle, herbe and ſtone.</p>
+            <p>Alſo knowe that the Moone is the loweſt of all the planetes and next to the Elementes, hauynge the leſt and ſwyfteſt courſe of all the other planetes, and is the mediatrix, ca<g ref="char:EOLhyphen"/>riare
+<pb facs="tcp:25054:6" rendition="simple:additions"/> and daily inſtrumentes, and co<g ref="char:cmbAbbrStroke">̄</g>ueyre of the vertues and proper<g ref="char:EOLunhyphen"/>tyes of al the other planetes, from the one to the other, and is alſo the commixter and ioynere together of all the heauens and elementes as by example, when the Sonne com<g ref="char:EOLunhyphen"/>meth to vs warde in ſprynge tyme and at all other tymes he gyuethe lyghte to all the Sterres and pla<g ref="char:EOLhyphen"/>netes, and this lyght by an occulte vertue, is mouyng and lyuely, and is co<g ref="char:cmbAbbrStroke">̄</g>ueyed by the Moone to the ele<g ref="char:EOLunhyphen"/>ment of the fyre, and there is made a lyuely heate.</p>
+            <p>Alſo the Moone, and the elemente of the fyre doth conuey it to the ele<g ref="char:EOLunhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>tes of the ayre, where it is made a temperate lyuely heate, and from the ayre to the water, and ſo recey<g ref="char:EOLhyphen"/>ueth an humorall moiſture in con<g ref="char:EOLhyphen"/>ceruing the temperate liuely heate fynallye the earthe, the whiche is the mother and matter of all the
+<pb facs="tcp:25054:7"/> other thinges, and this liuely hete entrynge and openynge the pores of the earth, and alſo of the rootes and ſeedes of herbes, geueth quic<g ref="char:EOLhyphen"/>nynge, and mouynge vpwarde agayne from the centre, and by the elemente of the water, mynyſtred by the Moone a conſeruyng moi<g ref="char:EOLhyphen"/>ſture, and by the Ayre and fyre a temperate lyuely heate, the herbe beginneth to ſprynge and appere ſenſible. Then the Moone in her courſe paſſynge by the Sterres, ſignes or conſtellation of Saturn mynyſtreth the influence of Sa<g ref="char:EOLhyphen"/>turne to the herbe, the whiche thic<g ref="char:EOLhyphen"/>keth and kepeth the matter i<g ref="char:cmbAbbrStroke">̄</g> rotes ſtalkes and leaues togither, by the element of the earth.</p>
+            <p>Alſo in paſſyng by Iupiter ſhe mi<g ref="char:EOLhyphen"/>niſtreth his influence to the herbe, in giuing temperature ſhape faci<g ref="char:EOLhyphen"/>on and ſmelle, by the elemente of the ayre, and in paſſyng by Mars,
+<pb facs="tcp:25054:7" rendition="simple:additions"/> by Venus, by Mercury, or by their Sterres and co<g ref="char:cmbAbbrStroke">̄</g>ſtellacions ye ſhal vnderſtande in lyke maner.</p>
+            <p>Alſo yf the Moone ſhuld not haue this miniſtracion dayly emonges the planetes, this ſucceſſion of the growing of herbes ſhulde not fo<g ref="char:EOLhyphen"/>lowe ordinatelye, and oftentymes we ſe daylye decay and lete of theſe procedinges, the whiche the cauſe is of the coniunctions and aſpec<g ref="char:EOLhyphen"/>tes of contrary planetes to the pro<g ref="char:EOLunhyphen"/>cedinges thereof, as at ſuche tyme, when Venus and Mercury ſhulde bringe forth the flower fruyte and ſeede. Then at that proper inſtant or at the entraunce of the reuolu<g ref="char:EOLhyphen"/>cion fygure, Saturne and Mars, being in dygnites, doth thicke and make cold, dry, and earthy and vt<g ref="char:EOLhyphen"/>terly ſleeth that tender matter and lyuely humour, whereof the flouer and ſede ſhulde haue ben ordeyned and made, and thus fynallye the
+<pb facs="tcp:25054:8"/> Moone hauing dayly adminiſtra<g ref="char:EOLhyphen"/>tion of all maner of propertyes of herbes, both elemental, and celeſti<g ref="char:EOLhyphen"/>al, it ſhalbe declared by the courſe of the Moone in the ſygnes, the tyme of miniſtryng of herbes and medecines for al partes of the bo<g ref="char:EOLhyphen"/>dye, the whiche tymes ſhalbe kno<g ref="char:EOLhyphen"/>wen by the Almanacke as is afore ſaide, wherefore nowe to conclude gentell reader I haue wrytten this lytell treaſyſe, not for leraned men but al onelye for the vnlerned En<g ref="char:EOLhyphen"/>gliſhe reader, that they may partly perceyue the workynge of the om<g ref="char:EOLhyphen"/>nipotente power, in hys inſtru<g ref="char:EOLhyphen"/>mentes, the heuens and elementes in the elementates, or inal thinges that are made of the .iiii. elemente to the hyghe laude and prayſe of the Deyte, to whom be all glorye worlde without ende Amen.</p>
+            <trailer>☞ FINIS.</trailer>
+         </div>
+         <div type="abstract">
+            <pb facs="tcp:25054:8" rendition="simple:additions"/>
+            <head>☞ The deuyſion of this boke.</head>
+            <p>THe fyrſt parte declareth the in<g ref="char:EOLunhyphen"/>fluence of the ſeuen planetes in herbes, ſtones, gummes, and mettalles, &amp; in the partes of mans body, and alſo in what ſignes, con<g ref="char:EOLhyphen"/>ſtellations &amp; ſtarres, euery planete hath moſt dominion and lordſhip.</p>
+            <p>The ſeconde parte declareth the influence of the .xii. ſignes, in her<g ref="char:EOLhyphen"/>bes ſtones gummes and mettalls, bothe by theyr owne influence and by the influences of the planettes, that hath lordſhyp in them, and al<g ref="char:EOLhyphen"/>ſo certaine degrees, wherin diuerſe ſtarres are ſet, beynge pryncipall ſtarres of ſundry conſtellations, be longynge to certayne planettes, &amp; alſo what parte of mans body the ſigne gouerneth, &amp; howe to bringe the vertues of the Heauens and Sterres to what parte of mannes bodye that ye wyll.</p>
+            <pb facs="tcp:25054:9"/>
+            <p>The thyrde part declareth by ex<g ref="char:EOLhyphen"/>ample howe ye ſhal bryng the ver<g ref="char:EOLhyphen"/>tue of the Sterres to euery parte of mans body, by the courſe of the Moone, with a table of the ſygnes and Planetes, and howe ye ſhall knowe in euery ſigne what plane<g ref="char:EOLhyphen"/>tes hath dominacion therin, wher<g ref="char:EOLhyphen"/>by ye may lyghtlye perceyue the herbes and medecynes belongyng to the ſaide planetes, the whiche ſhalbe miniſtred in that ſygne, for that parte of the bodye, the whiche the ſygne gouerneth, the Moone beynge in the ſayde ſygne.</p>
+            <p>Alſo there foloweth the tryplicites of ſygnes and tryplycytes of the partes of the bodye, and howe ye ſhall miniſter in the one ſygne for the other, and to the one member for the ſyckenes of the other, with a table for the ſame, alſo there is a nother miniſtracion after the ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſions of the Moone.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:25054:9" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> HERE BEGYNNETH the firſte parte, the whiche treateth of the ſeuen planets,</head>
+            <div type="section">
+               <head>and fyrſte of the herbes, ſtones, gums, and mettalles that are appropriate to the planet Sa<g ref="char:EOLhyphen"/>turne.</head>
+               <p>¶ Of herbes, <seg rend="decorInit">S</seg>Engrene, Affodyll, Serpentary, Rewe, Comyn, blake Ele<g ref="char:EOLhyphen"/>bore, Mandragon, Opium, blacke Fig<g ref="char:EOLhyphen"/>ges, Pyne tree, Cypreſſe tree.</p>
+               <p>And of ſtones, Saphire blacke Iaſper, Chalcedon, Magnes, and the blacke Onichinus, a litel ſtone of Iude.</p>
+               <p>Of Gummes, blacke pytche.</p>
+               <p>Of metalles, the Marcaſita of baſe Golde, Leade, and Antimony</p>
+               <div type="subsection">
+                  <head>
+                     <pb facs="tcp:25054:10"/>¶ The partes of mans body that Saturne ruleth and gouerneth.</head>
+                  <p>
+                     <g ref="char:leaf">❧</g> Saturne gouerneth the lyuer and gall, and the fleſſhely parte of the ſtomake, and holdeth and re<g ref="char:EOLhyphen"/>ſtraineth all maner of fluxes.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <g ref="char:leaf">❧</g> The ſignes of heuen in whom Saturne hath great ſtrength and Lordeſhyppe.</head>
+                  <p>☞ Saturne hath domynacyon, and lordeſhippe in Capricorne and Aquary, and in Libra, bycauſe of his exaltacions, and in all thinges continued vnder theſe ſignes.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <g ref="char:leaf">❧</g> In what conſtellacion df hea<g ref="char:EOLhyphen"/>uen, Saturne hath lordſhip and dominion.</head>
+                  <p>¶ The conſtellacion of the blacke Rauen is of the nomber of ſeuen Sterres emonges whom is a payle Sterre vpon the lefte wyng of the Rauen the which hath diſpoſicion and influence of Saturne at the
+<pb facs="tcp:25054:10" rendition="simple:additions"/> aforeſayde daye of the .xvi. degre of Libra, and al other thinges contey<g ref="char:EOLhyphen"/>ned vnder the co<g ref="char:cmbAbbrStroke">̄</g>ſtellacyon aforſaid, at that preſent tyme.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>
+                  <g ref="char:leaf">❧</g> Of herbes, ſtones, gummes, and mettalles, that are appro<g ref="char:EOLhyphen"/>priate to the planette Iupiter.</head>
+               <head type="sub">☞ Of Herbes.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Ouſelyke, or Sen<g ref="char:EOLhyphen"/>grene, Baſyll, Bu<g ref="char:EOLhyphen"/>gloſſe, Mynte royall, Enulacampana, Vio<g ref="char:EOLunhyphen"/>lettes, Cockle Maces Spickenarde, Pop<g ref="char:EOLhyphen"/>lere, Aſſhe, Beche, Almondes, Wal<g ref="char:EOLunhyphen"/>nuttes, Pyonye rootes, Mirabo<g ref="char:EOLhyphen"/>laynes, whyte Figges, Pears, Ap<g ref="char:EOLhyphen"/>ples, Prunes, Olyues, Rabarbe, Manna, Wheate, Barlye, Raiſens, Lycoreſſe, Suger.</p>
+               <pb facs="tcp:25054:11"/>
+               <p>Of ſtones, Iacinet, Berell, Sa<g ref="char:EOLhyphen"/>phere, Tute, Smaragde, grene Iaſ<g ref="char:EOLunhyphen"/>per, and all other ſtones, that are grene in coloure.</p>
+               <p>Of gummes, Maſtycke, Sto<g ref="char:EOLhyphen"/>raxe.</p>
+               <p>Of Mettalles, Tynne, Syluer, and Golde.</p>
+               <div type="subsection">
+                  <head>✿ The partes of mans body that Iupiter ruleth and gouerneth.</head>
+                  <p>¶ Iupiter ruleth the wombe, and nauell, the ſhorte rybbes, withal the bowelles, and alſo the ryghte hande and the lefte eare, and the naturall ſpirite, the vaynes, Raynes, backe, and buttockes.</p>
+               </div>
+               <div type="subsection">
+                  <head>⚜ The ſygnes of heauen that Iu<g ref="char:EOLhyphen"/>piter hath dominion and lordeſhyppe in</head>
+                  <p>☞ Iupiter hath lordſhyppe in Sa<g ref="char:EOLunhyphen"/>gitarye, and Piſces, and in Cancer, where he is exalted, and alſo in all thinges, conteyned vnder theſe. iii. ſignes.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <pb facs="tcp:25054:11" rendition="simple:additions"/>¶ The conſtellacions of heauen wherin Iupiter hath influence.</head>
+                  <p>¶ Iupiter hath dominacion in the conſtellacion of Elpheia, and in the great Horſe in the thyrde degree of Sagittary, and in the thyrde degre of Piſces, and in al theſe herbes and ſtones that are vnder theſe two con<g ref="char:EOLhyphen"/>ſtellacions at the degres aforeſayd.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>⚜ The herbes, ſtones, gummes and mettalles, that hath influence of the planet Mars.</head>
+               <head type="sub">☞ Of herbes.</head>
+               <p>
+                  <seg rend="decorInit">D</seg>Ogfenel, Arnogloſſa whyte Elebore, Gar<g ref="char:EOLhyphen"/>lyke, Radyſhe, Lau<g ref="char:EOLhyphen"/>rel, Napellus, Scamo<g ref="char:EOLunhyphen"/>nie, Thyſtel, Netrell, Sperewort, Onyons Lekes, Muſtarde.</p>
+               <p>Of ſtones, Adama<g ref="char:cmbAbbrStroke">̄</g>t, Magnes, the bloude ſtones, Iaſper, Amatyſie.</p>
+               <pb facs="tcp:25054:12"/>
+               <p>Of Gummes, Euphorbium Armo<g ref="char:EOLhyphen"/>niake.</p>
+               <p>Of Mettalles, Iron, Redde braſſe Sulphire, or Brymſtone.</p>
+               <div type="subsection">
+                  <head>✿ The partes of mans body that Mars ruleth.</head>
+                  <p>☞ Mars gouerneth the raynes, ſtones, matrice, and genitall ſeede.</p>
+               </div>
+               <div type="subsection">
+                  <head>☞ The ſygnes of heauen in whom Mars hath great dominacion.</head>
+                  <p>☞ Mars hath domynacyon, and lordeſhyppe in Aries and Scorpio, and in Capricorne, bycauſe of his exaltacion, and in all thynges con<g ref="char:EOLhyphen"/>teyned vnder theſe ſygnes.</p>
+               </div>
+               <div type="subsection">
+                  <head>¶ The co<g ref="char:cmbAbbrStroke">̄</g>ſtellacions of heauen in who<g ref="char:cmbAbbrStroke">̄</g> Mars hath dominion.</head>
+                  <p>
+                     <g ref="char:leaf">❧</g> Mars hath lordeſhip in the con<g ref="char:EOLhyphen"/>ſtellacyon of Plciades, the ſeuen Sterres, of Aldebaran, of the Ly<g ref="char:EOLhyphen"/>ons herte, of the Rauens wynge, of Alchameche, of Elpheia, of the Scorpions herte and of the ſhulder of the great horſe, in the .xxii. degree,
+<pb facs="tcp:25054:12" rendition="simple:additions"/> of Taurus, in the thirde degree of Gemini, in the .xix. degre of Virgo, in the. xvi, degre of Liora, in the iiii degre of Scorpio, in the .iii. degre of Sagittary, in the .vii. degre of Ca<g ref="char:EOLhyphen"/>pricorne, and in the iii. degre of Piſ<g ref="char:EOLhyphen"/>ces, and in all thynge that are con<g ref="char:EOLhyphen"/>teyned vnder theſe conſtellacyons, and ſpecyallye at the dayes of theſe degrees aforeſaide.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>¶ The herbes, ſtones, gummes, and mettalles, that are appro<g ref="char:EOLunhyphen"/>pryate to the Sonne.</head>
+               <head type="sub">☞ Of herbes.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Elytrope, or Mary<g ref="char:EOLhyphen"/>goldes, Poligon, Pio<g ref="char:EOLhyphen"/>ny, Celidon, Citraria, Gynger, Gentia<g ref="char:cmbAbbrStroke">̄</g>, Dip<g ref="char:EOLhyphen"/>tayne, Veruaine, Lau<g ref="char:EOLhyphen"/>rel, Cedre, Palme, Aſſhe, Iue, Peper Amaracus, Vynes, Mynte royall, ſetwal, Saffron, Balme, Hony, Lig<g ref="char:EOLunhyphen"/>num Alloes, Cloues, Cinamonde,
+<pb facs="tcp:25054:13"/> Calamus Aromatycus, Amber, Muſke, Roſemarye.</p>
+               <p>Of ſtones, the Egle ſtone, oculus, Carbu<g ref="char:cmbAbbrStroke">̄</g>cle, Chriſolite, Iris, Helitrop the grene Iacincte, Topazion.</p>
+               <p>Of gummes, maſtycke, Balme,</p>
+               <p>Of mettalles pure golde.</p>
+               <div type="subsection">
+                  <head>☞ The partes of man that the Sonne gouerneth.</head>
+                  <p>☞ The Sonne ruleth the Brayne, the herte, the thyghes, the mary, the right eye, &amp; y<hi rend="sup">e</hi> ſpiritual life, y<hi rend="sup">e</hi> mouth, the tongue, with all the organs, and inſtrumentes that belongeth bothe to the outwarde and inwarde ſe<g ref="char:cmbAbbrStroke">̄</g>ſes, alſo the handes, feete and ſynewes, with the vertue fantaſticall.</p>
+               </div>
+               <div type="subsection">
+                  <head>☞ The ſignes of heauen wherein the Sonne hath greteſt domina<g ref="char:EOLhyphen"/>cion to vs of Englande.</head>
+                  <p>☞ The Sonne hath the greateſte lordeſhyp in Leo, and alſo in Aries, Taurus, Gemini, Cancer, Virgo, and Libra, and in all thinges contei<g ref="char:EOLunhyphen"/>ned
+<pb facs="tcp:25054:13" rendition="simple:additions"/> vnder theſe ſygnes, and is the chiefe workeman, to whom all other planettes are but inſtrumentes.</p>
+               </div>
+               <div type="subsection">
+                  <head>✿ The conſtellacions of heauen, in whom the Sonne hath the grea<g ref="char:EOLunhyphen"/>teſt influence to vs in Englande.</head>
+                  <p>¶ The Sonne hath influence in Andromeda, in the heade of Algoll, in Pleiades, in Aldebaran, in the Gote, in the great Dogge, and lytel Dogge, in the Lyons herte, in the tayle of the great Bere, in the winge of the Rauen, in the virgyn ſpycke, and in Alchameth, and in al thinges conteined vnder theſe co<g ref="char:cmbAbbrStroke">̄</g>ſtellacions. Alſo about the degres appointed in the ſignes where the moſt pryncipal Sterres of theſe conſtellacyons are ſet, the Sonne ſuffreth alterations accordynge to the nature of the pla<g ref="char:EOLhyphen"/>nettes, of whome theſe ſterres hath influence, from tyme to tyme by the courſe and paſſage of the Moone,
+<pb facs="tcp:25054:14"/> y<hi rend="sup">t</hi> miniſtreth fro<g ref="char:cmbAbbrStroke">̄</g> the one, to the other, as I haue ſayd before in the epyſtle.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>⚜ The herbes, ſtones, gummes, and mettalles, that hath influence of the planette Venus.</head>
+               <head type="sub">¶ Of herbes.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>Anax, Callitrychum, Veruen, Violette Mai<g ref="char:EOLhyphen"/>denheare, Valeryan, Tyme, Roſe, Mirtus, Ambre, Muſke, San<g ref="char:EOLhyphen"/>ders. Coliandre, ſwete Fygs, Pears Oranges, and Pomgranattes.</p>
+               <p>Of ſtones, Berel, Chryſolite, Sma<g ref="char:EOLunhyphen"/>ragde, Saphire, grene Iaſper, the Egle ſtone, Aſure, Corall, and all o<g ref="char:EOLhyphen"/>ther of ſundry and grene coloure.</p>
+               <p>Of gummes, Ladanum, Benia<g ref="char:EOLhyphen"/>min, Gallia, Muſcate, and all ſwete ſmellynge Gummes.</p>
+               <p>Of mettalles, Syluer and yelow or redde braſſe.</p>
+               <div type="subsection">
+                  <head>
+                     <g ref="char:leaf">❧</g> Of the partes of mans bodye that Venus gouerneth.</head>
+                  <pb facs="tcp:25054:14" rendition="simple:additions"/>
+                  <p>
+                     <g ref="char:leaf">❧</g> Venus ruleth the fleſhe and fat<g ref="char:EOLhyphen"/>nes of the wombe, the ſhare and na<g ref="char:EOLhyphen"/>uell and alſo the backe &amp; buttockes.</p>
+               </div>
+               <div type="subsection">
+                  <head>¶ The ſignes of heauen, in whom Venus hath dominacion.</head>
+                  <p>¶ Venus is the ladye of Taurus, and Libra and of Piſces, bicauſe of her exaltacion, and in al thinges co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>teyned vnder theſe thre ſygnes.</p>
+               </div>
+               <div type="subsection">
+                  <head>☞ what conſtellacyons are ru<g ref="char:EOLhyphen"/>led by Venus.</head>
+                  <p>
+                     <g ref="char:leaf">❧</g> Venus ruleth the nauell of An<g ref="char:EOLhyphen"/>dromeda, in the .xxii. degre of Aries, Aldebaran in the thyrde degree of Gemini the great dogge in the .xvii. degre of Cancer, the great Beare in the ſeuen degre of Libra, the vyrgin ſpicke, in the .xvii degre of Libra the Elpheia in the thyrde degre of Sa<g ref="char:EOLhyphen"/>gittary, the vultur cades in the .xvi. degree of Aquarye and of all other herbes, ſtones, Gummes, and met<g ref="char:EOLhyphen"/>talles, that are co<g ref="char:cmbAbbrStroke">̄</g>teyned vnder theſe
+<pb facs="tcp:25054:15"/> conſtellacyons, at the dayes of thoſe degrees aforeſayde.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>¶ The herbes, ſtones, and mettals that hath influence of the planette Mercurye.</head>
+               <head type="sub">☞ Of herbes.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>Entafilon, Mercurye, Philonium, Fumiter, Pimpernel, Maioran, and Perſlye.</p>
+               <p>Of ſtones, Smaragde Achates, Porphiret, Topazion.</p>
+               <p>Of mettalles, Quickſiluer, Tinne and the marcaſita of Syluer.</p>
+               <div type="subsection">
+                  <head>⚜ The partes of mans bodye that Mercury ruleth.</head>
+                  <p>¶ Mercurye gouerneth the mylte, ſtomake, bladder, matryxe, and the ryght eare, with the vertue of reſey<g ref="char:EOLhyphen"/>uynge.</p>
+               </div>
+               <div type="subsection">
+                  <head>☞ The ſygnes of heauen in whom Mercurye is the Lorde.</head>
+                  <p>
+                     <g ref="char:leaf">❧</g> Mercurye is Lorde of Gemini, and Virgo, bycauſe of his honoure
+<pb facs="tcp:25054:15" rendition="simple:additions"/> therin, and in all thynges conteyned in theſe two ſygnes.</p>
+               </div>
+               <div type="subsection">
+                  <head>☞ The conſtellacion of Heauen in who<g ref="char:cmbAbbrStroke">̄</g> Mercury hath dominion.</head>
+                  <p>
+                     <g ref="char:leaf">❧</g> Mercury hath dominion in the nauell of Andromeda, in the .xxi. de<g ref="char:EOLhyphen"/>gre of Aries, &amp; in the litel dog, in the xxi. degre of Leo, &amp; i<g ref="char:cmbAbbrStroke">̄</g> the virgi<g ref="char:cmbAbbrStroke">̄</g> ſpicke in the .xvii. degre of Libra, &amp; in vul<g ref="char:EOLunhyphen"/>ture cadens, in the .xvi. degre of A<g ref="char:EOLhyphen"/>quary, and in the taile of Capri. and in al thinges conteyned vnder theſe conſtellacions in the daies of the de<g ref="char:EOLhyphen"/>gres aforeſayd.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>✿ The herbes, ſtones, gummes, and mettalles, that hath influ<g ref="char:EOLhyphen"/>ence of the Moone,</head>
+               <head type="sub">¶ Of herbes.</head>
+               <p>
+                  <seg rend="decorInit">L</seg>Vnary, Palme, Iſope Roſemary, Agnus ca<g ref="char:EOLhyphen"/>ſtus, Olyua, Chame<g ref="char:EOLhyphen"/>lion.</p>
+               <p>Of ſtones, Selenites Perle, Berell.</p>
+               <pb facs="tcp:25054:16"/>
+               <p>Of mettalles, the marcaſyta of ſyluer, and pure ſyluer.</p>
+               <div type="subsection">
+                  <head>☞ What parte of mans bodye the Moone ruleth.</head>
+                  <p>
+                     <g ref="char:leaf">❧</g> The Moone gouerneth perty<g ref="char:EOLhyphen"/>culerlye the brayne, longes, backe<g ref="char:EOLhyphen"/>bone, the lefte eye and ſtomake, and all the excrementes of the body, and generally the Moone ruleth all the hole bodye<g ref="char:punc">▪</g> by dyuerſe and ſundry tymes as ſhe paſſeth by y<hi rend="sup">e</hi>. xii, ſignes</p>
+               </div>
+               <div type="subsection">
+                  <head>¶ The ſygne of heauen wherin the Moone hath dominacion.</head>
+                  <p>¶ The Moone is the lady of Can<g ref="char:EOLhyphen"/>cer, &amp; is honored in Taurus, ſo that all thynges conteyned vnder theſe ſygnes are ruled by the Moone.</p>
+               </div>
+               <div type="subsection">
+                  <head>¶ In what conſtellacion of heauen the Moone hath dominacion.</head>
+                  <p>⚜ The Moone hath damynion, in the taile of the great Bere, in the. vii degree of Libra, and in all thynges conteined vnder theſe co<g ref="char:cmbAbbrStroke">̄</g>ſtellacions, in the day of the degre aforeſayde.</p>
+               </div>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:25054:16" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> HERE BEGYNNETH the .ii. parte, the whiche treateth of the .xii. ſygnes and of the appropriation, and influence that they haue in Herbes, Stones, Gummes and mettalles, and in the pertycular partes of mans body, and what principal Sterres of certayne conſtellacions, are conteyned in euery ſygne, and fyrſt of the ſigne of the Ramme called in the Almanacke Aryes.</head>
+            <div n="Ares" type="astrological_sign">
+               <figure>
+                  <figDesc>depiction of Ares: ram</figDesc>
+               </figure>
+               <p>ARies is a ſygne of .xiii. ſters and hath pro<g ref="char:EOLunhyphen"/>perly y<hi rend="sup">e</hi> herbe Sage, Sti<g ref="char:EOLhyphen"/>cados worm wode, Citru<g ref="char:cmbAbbrStroke">̄</g>, Calamente, Maioran, Penyryall, Iſope, Beto<g ref="char:EOLhyphen"/>nye, Rewe, Chelidon, Roſemarye, Horehounde, Accorus, Mynte, Ca<g ref="char:EOLhyphen"/>momyll, Veruaine, Roſes, Violets,
+<pb facs="tcp:25054:17"/> water Lylly, Popy, Myrtus, Pety<g ref="char:EOLhyphen"/>morell, Alkikengy, Gurdes, Purce<g ref="char:EOLhyphen"/>layne, and all maner of medecynes, made of theſe, as Siroppes, Iuleps, Confections, electuaryes, playſters, oyntmentes, and ſo forth.</p>
+               <p>Alſo he hath al the other herbes, ſto<g ref="char:EOLhyphen"/>nes, gummes, and mettalles, that are conteyned in the influence of the Sonne and Mars, bycauſe it is the houſe of Mars, and the exaltacyon of the Sonne. Alſo Aries hath a great part of the co<g ref="char:cmbAbbrStroke">̄</g>ſtellacion of An<g ref="char:EOLhyphen"/>dromeda the which conteyneth .xxii. ſterres, emonges whom a pryncipal ſtarre is called the nauell of Andro<g ref="char:EOLhyphen"/>meda, in the .xxi. degre of Aries, the whiche geueth influence to all the thinges vnder Venus and Mercury in the daye of the degre aforeſayde. Alſo Aries gouerneth the head and face, ſo that in al maner kinde of me decines gene<g ref="char:cmbAbbrStroke">̄</g> for any ſickenes of the head and face, they ſhalbe myxed w<hi rend="sup">t</hi>
+                  <pb facs="tcp:25054:17" rendition="simple:additions"/> ſome thynges vnder the Sonne. Mars or the ſigne Aries, the Moone beyng in the ſaid ſygne of Aries. Al<g ref="char:EOLhyphen"/>ſo yf it be about the .xxi. degre, then ſhall ye myxe ſome thynges vnder Venus, &amp; Mercury, with the aboue ſaid, and ſo by theſe medecines ſhal<g ref="char:EOLhyphen"/>be brought the vertu of the heuens, and nature of the Sterres into the proper heade and face by the onelye courſe &amp; miniſtracion of the Moone in this ſygne of Aries.</p>
+            </div>
+            <div n="Taurus" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Taurus: bull</figDesc>
+                  </figure>
+               </p>
+               <p>TAV<g ref="char:EOLhyphen"/>rus is a ſygne of .xxxiii. ſters, and hath ꝓ<g ref="char:EOLunhyphen"/>perly y<hi rend="sup">e</hi> brod leaued Ver<g ref="char:EOLhyphen"/>uen, or the garde<g ref="char:cmbAbbrStroke">̄</g> Ver<g ref="char:EOLhyphen"/>uen, and all the other thynges con<g ref="char:EOLhyphen"/>teyned vnder Venus. Alſo Taurus
+<pb facs="tcp:25054:18"/> hath the conſtellacion of Algol the whiche conteineth .xxvi. ſterres, and it gyueth influence to blacke Elle<g ref="char:EOLhyphen"/>bore, Mugwede, and the Adamant ſtone, in the .xviii. degree of Tau<g ref="char:EOLhyphen"/>rus bycauſe the head of Algol is ſet in that degre. Alſo al that are vnder Saturne, and Iupiter, hath influ<g ref="char:EOLhyphen"/>ence at this aforeſaid degre, bicauſe this Sterre is called the head of Al<g ref="char:EOLunhyphen"/>gol is of the nature of Saturne and Iupiter. Alſo the .vii. Sters, are ſet in the .xxii. degre of Taurus, beyng of the nature of Mars, ſo that all thynges vnder Mars are conteined vnder that degre<g ref="char:punc">▪</g> Alſo this ſigne go<g ref="char:EOLunhyphen"/>uerneth the necke of man, ſo that the Moone beynge in this ſygne, it is good to miniſter all kinde of mede<g ref="char:EOLhyphen"/>cines, to al deſeſes in the necke, mix<g ref="char:EOLunhyphen"/>inge the ſaide medecines with parte of theſe thinges vnder the influence therof, wherby the vertue of the hea<g ref="char:EOLhyphen"/>uens and nature of the Sterres are
+<pb facs="tcp:25054:18" rendition="simple:additions"/> conueyed to the necke, by the courſe of the Moone, beynge in this ſigne as is aforeſayde.</p>
+            </div>
+            <div n="Gemini" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Gemini: twins</figDesc>
+                  </figure>
+               </p>
+               <p>GEminie is a ſine of .xix. ſters, and hath the ſmall leaued Veruayne, and of all o<g ref="char:EOLhyphen"/>ther thinges conteined vn<g ref="char:EOLunhyphen"/>der Mercurye. Alſo in the thyrde de<g ref="char:EOLhyphen"/>gre he hath the redde ſtarre Aldeba<g ref="char:EOLhyphen"/>ran, the Bulles eye, the whiche ge<g ref="char:EOLhyphen"/>ueth influence to Titimal and Wod bynde, and the Rubye, and the Car<g ref="char:EOLhyphen"/>bunele ſtone, and all vnder Mars, and Venus in the aforeſayde degre. Alſo Gemini ruleth the armes, and ſhoulders, and to brynge the nature of the ſterres, by medecynes to theſe partes of man, ye ſhal vnderſta<g ref="char:cmbAbbrStroke">̄</g>d as is aforeſaid in Aries, and Taurus.</p>
+            </div>
+            <div n="cancer" type="astrological_sign">
+               <pb facs="tcp:25054:19"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of Cancer: crab</figDesc>
+                  </figure>
+               </p>
+               <p>CAncer is a ſygne of .ix. ſterres and hath the herbe Syn<g ref="char:EOLhyphen"/>phiton, Iſop Horehounde Lycoryſſhe, Time, Squil<g ref="char:EOLunhyphen"/>les, Pulyal royal, Fenell, Calament Penyrial, Betony, Rewe, Bugloſſe, Borage, Violettes, Iuiubes, ſwete Pomgarnades, Popies, water Lyl<g ref="char:EOLhyphen"/>lye, Lyuerworte, Malles, Mayden<g ref="char:EOLhyphen"/>heare, Sorell, Gourdes, and Plan<g ref="char:EOLhyphen"/>tayne, and al other medecines made of theſe, and al thinges conteined vn<g ref="char:EOLunhyphen"/>der the influence of the Moone. Alſo in the .vii. degre riſeth a ſter called y<hi rend="sup">e</hi> Gote, the which is a conſtellacio<g ref="char:cmbAbbrStroke">̄</g> of .xiiii. ſters vnder whom hath influe<g ref="char:cmbAbbrStroke">̄</g>ce Mintes, Mugwede &amp; Mandrage, and the Saphire ſtone, and al thinges vn<g ref="char:EOLunhyphen"/>der Saturne, and Iupiter in that de<g ref="char:EOLhyphen"/>gre.
+<pb facs="tcp:25054:19" rendition="simple:additions"/> Furthermore in the .xxvii. degre is a fayre twinkling ſterre in y<hi rend="sup">e</hi> great dogs tonge, a conſtellacion of .xviii. ſters, vnder who<g ref="char:cmbAbbrStroke">̄</g> hath influence Sa<g ref="char:EOLunhyphen"/>uine, Mugwed, Dragonce, &amp; the Be<g ref="char:EOLhyphen"/>rell ſtone, and al thinges vnder Ve<g ref="char:EOLhyphen"/>nus in that degree. Alſo Cancer ru<g ref="char:EOLhyphen"/>leth the breaſt, longes, ſtomake and lacertes, and to bryng the nature of the ſters to the myniſtration of theſe partes by medecines mixed with the appropriate thinges belo<g ref="char:cmbAbbrStroke">̄</g>ging to the ſaide ſterres, ye muſt do as is afore wrytten in the other ſygnes.</p>
+            </div>
+            <div n="Leo" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Leo: lion</figDesc>
+                  </figure>
+               </p>
+               <p>LEo is a ſygne of xxvii. ſterres and hath the herbe Cla<g ref="char:EOLhyphen"/>uer, Worme<g ref="char:EOLunhyphen"/>wod, Mintes Calamente, Tyme, Eu<g ref="char:EOLhyphen"/>patory, Pulyal royal, Licoreſſe, Pe<g ref="char:EOLunhyphen"/>nirial,
+<pb facs="tcp:25054:20"/> Sage, Fenel, Citru<g ref="char:cmbAbbrStroke">̄</g>, ſwete Ap<g ref="char:EOLhyphen"/>pyls, ſwete Pomgranates, Bugloſſe Borage, Balme, Maioran, Roſema<g ref="char:EOLunhyphen"/>rie, Enulacampana, Roſe, Mirtus, Berel, Fumiter, Endife, Liuerworte Waidred, Accory, Purſlayne, Lem<g ref="char:EOLhyphen"/>mondes and al other kinde of mede<g ref="char:EOLhyphen"/>cines made of theſe, and all thinges conteined vnder the Sonne. Alſo in the .xxii. degre ryſeth a ſterre called y<hi rend="sup">e</hi> lytel dog, a conſtellacion of .ii. ſters vnder who<g ref="char:cmbAbbrStroke">̄</g> hath influence marigold flowers, Pulial roial, and the ſtone, Achates, and all vnder Mercurye in that degree. Alſo Leo, go<g ref="char:EOLhyphen"/>uerneth the herte, ſtomake, lyuer, and backe, and to brynge the na<g ref="char:EOLhyphen"/>ture and in<g ref="char:EOLhyphen"/>fluence of the Sterres, do as is aforeſayde.</p>
+            </div>
+            <div n="Virgo" type="astrological_sign">
+               <pb facs="tcp:25054:20" rendition="simple:additions"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of Virgo: woman holding a quill or feather (?) in left hand, and right hand upraised</figDesc>
+                  </figure>
+               </p>
+               <p>VIrgo is a ſigne of .26. ſterres and gyuethe influence of the herbe Ca<g ref="char:EOLunhyphen"/>loment, Fe<g ref="char:EOLhyphen"/>nel Worme<g ref="char:EOLhyphen"/>wod, Tyme, Sage, Roſemarye, Roſes, Purſe<g ref="char:EOLhyphen"/>layne, Endyffe, Lyuerwort, Cicory, and theſe that are appropriate to the aforeſaid, and al other kynde of me<g ref="char:EOLhyphen"/>decynes made of theſe, and to al con<g ref="char:EOLhyphen"/>teyned vnder Mercurye. Alſo in the xxix. degre riſeth a Sterre called the kinges ſter or Lions hert, the which hath Celidon, Mugwede, Maſtike, and the ſtone Granate, and al thyn<g ref="char:EOLhyphen"/>ges that are vnder Iupiter, &amp; Mars in that degre. Alſo virgo, gouerneth all the bowelles, and bottome of the ſtomake, and to brynge the influence of theſe ſterres to the partes of man
+<pb facs="tcp:25054:21"/> ye<g ref="char:cmbAbbrStroke">̄</g> muſt vnderſtand, and do as afore is ſaid in the other ſygnes,</p>
+            </div>
+            <div n="Libra" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Libra: scales</figDesc>
+                  </figure>
+               </p>
+               <p>LIbra is a ſygne of .viii, ſter<g ref="char:EOLhyphen"/>res and gy<g ref="char:EOLhyphen"/>uethe influ<g ref="char:EOLhyphen"/>ence to the herbe called Scorpiuron, wormewod Eupatorium, Horehounde, Tyme. Calamente, Sparagus, Perſlye, Smallage, Alexandre, Penyroy all, Iſope, Carui, Harteſtonge, water Lyllye, Endyffe, Violettes, Cicorye, Lupulns, Purſelayne, Saxifrage, and all other kynde of medecynes made of theſe, and to al thynges con<g ref="char:EOLunhyphen"/>teined vnder Venus. Alſo in the. vii degre ryſeth a ſterre called the tayle of the great Beare, a conſtellacyon of .vii. ſterres the whiche geueth in<g ref="char:EOLhyphen"/>fluence to the herbe Cicorye, Mug<g ref="char:EOLhyphen"/>wede,
+<pb facs="tcp:25054:21" rendition="simple:additions"/> and the flowers of Peruincle, and to the Magnes ſtone in that de<g ref="char:EOLunhyphen"/>gre. Alſo in the .xvi. degre is a ſterre called the Rauens wynge that hath vnder hi<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> herbe Docke, or Quadra<g ref="char:EOLhyphen"/>gium, Hyoſtianus, blacke Gu<g ref="char:cmbAbbrStroke">̄</g>frey, and the blacke Onichinus ſtone, and all that are vnder Saturne, and Mars, in the aforeſayde degre. Alſo in the ,xvii. degre of Libra, ryſeth a ſterre called the virgyn ſpycke, the which gyueth influence to the herbe Sage, thre leued graſſe, Peruincle, Mugwede, and Mandrage, and to the ſtone Smaragde, and to al thoſe vnder Venus and Mercury, in that degree. Alſo Libra, gouerneth the raynes, thighes, and buttockes, and when ye wil miniſter any medecines to theſe partes of the bodye, prepare the Moone to be in this ſigne, &amp; mixe the medecines with ſome of theſe thi<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ges apꝓpriat vnto theſe partꝭ of the bodye, &amp; ſo the vertu &amp; nature of the
+<pb facs="tcp:25054:22"/> ſterres to the ayde, comfort and put tynge awaye of the ſekeneſſe frome that parte of the body.</p>
+            </div>
+            <div n="Scorpio" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Scorpio: scorpion</figDesc>
+                  </figure>
+               </p>
+               <p>SCorpyo, is a ſign of .xxii. ſters and hath the herbe Mug<g ref="char:EOLhyphen"/>wede, Cala<g ref="char:EOLhyphen"/>ment, Eupa<g ref="char:EOLhyphen"/>torie, Tyme, Accorus, red Madder, Nepta, Myntryall, Ma<g ref="char:EOLhyphen"/>tricaria, Nettels, Parataria, Hore<g ref="char:EOLhyphen"/>hounde, Roſes, Myrtus, and all o<g ref="char:EOLhyphen"/>ther ki<g ref="char:cmbAbbrStroke">̄</g>d of medecines made of theſe and geueth influence to all thinges vnder Mars. Alſo in the fourth de<g ref="char:EOLhyphen"/>gre ryſeth a ſterre called Alchamech the which hath Plantayne, and the Iaſper ſtone, and all thinges vnder Iupiter and Mars, in that degree. Alſo Scorpio gouerneth the geny<g ref="char:EOLhyphen"/>tall and mattice, and to brynge the
+<pb facs="tcp:25054:22" rendition="simple:additions"/> vertues of the ſters vnto theſe par<g ref="char:EOLhyphen"/>tes, do as afore is ſaid in Libra.</p>
+            </div>
+            <div n="Sagittarius" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Sagitarrius: centaur wielding a bow and arrow</figDesc>
+                  </figure>
+               </p>
+               <p>SAgytta<g ref="char:EOLhyphen"/>rye is a ſigne of .xxxi ſterres, and hath y<hi rend="sup">e</hi> herbe Anagallus, and all that is vnder Iu<g ref="char:EOLunhyphen"/>piter. Alſo in the thyrde degree ryſeth a conſtella<g ref="char:EOLhyphen"/>cion called Elpheia the whiche hath Roſemarye, Trifoyle, Iue, and the ſtone Topazion, and al that are vn<g ref="char:EOLhyphen"/>der Mars and Venus in the day of the aforeſaide degre. Alſo Sagitta<g ref="char:EOLhyphen"/>rye ruleth the ſhare bone, and the o<g ref="char:EOLhyphen"/>uer partes of the thyghes, and to brynge the vertue of the heauens and Sterres to theſe partes by me<g ref="char:EOLhyphen"/>decynes, do as is aforeſayde in the other ſygnes.</p>
+            </div>
+            <div n="Capricorn" type="astrological_sign">
+               <pb facs="tcp:25054:23"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of Capricorn: goat</figDesc>
+                  </figure>
+               </p>
+               <p>CAPRI<g ref="char:EOLhyphen"/>corne is a ſygne of xxviii. ſters, and hath the herbe Lapa<g ref="char:EOLhyphen"/>thu<g ref="char:cmbAbbrStroke">̄</g>, a Docke and al other herbes con<g ref="char:EOLhyphen"/>teyned vnder Saturne. Alſo in the ſeuenth degree ryſeth a ſterre called the Scorpions herte the whiche gy<g ref="char:EOLhyphen"/>neth influence to the herbe Ariſtolo<g ref="char:EOLhyphen"/>gia the longer, and to Saffron, and to the ſtones Sardens, and Ame<g ref="char:EOLhyphen"/>thyſtes, and to all thynges vnder Iupiter and Mars, in that degree Alſo Capricorne gouerneth the kne<g ref="char:EOLunhyphen"/>es, and to brynge the vertue of the Heauens and Sterres to theſe pla<g ref="char:EOLhyphen"/>ces of the bodye, marke theſe thyn<g ref="char:EOLhyphen"/>ges vnder theſe planettes ſygnes, and conſtellacions, geuynge influ<g ref="char:EOLhyphen"/>ence in this ſygne, and do as before is ſayde.</p>
+            </div>
+            <div n="Aquarius" type="astrological_sign">
+               <pb facs="tcp:25054:23" rendition="simple:additions"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of Aquarius: naked man pouring water into a river from jars in each hand</figDesc>
+                  </figure>
+               </p>
+               <p>AQVA<g ref="char:EOLhyphen"/>rie is a ſigne of .24. Sters, and hath y<hi rend="sup">e</hi> herbe Dragons, &amp; all thynges co<g ref="char:cmbAbbrStroke">̄</g>teined vn<g ref="char:EOLhyphen"/>der Saturne and in the .xvi. degree is a ſterre ſet whoſe hole co<g ref="char:cmbAbbrStroke">̄</g>ſtellacion is called the Vulture cadens, the whiche geueth influence to the herbe Sauery, and Fumiter, and to the ſtone Chryſolite and to all theſe vnder Venus, and Mercurye in the .xvi. degre. Alſo in the .xiiii. degre ryſeth a ſterre called the tayle of Capricorne, the whiche hath the herbe Maioran, Mugwed Nepta, Pulyall royall, the roote of Mandrage, &amp; the Chalcedoni ſtone, and all theſe that are vnder Saturne and Mercuri, in the .xiiii, degre, Alſo Aquary gouerneth the calfe &amp; ſmall
+<pb facs="tcp:25054:24"/> of the legges and to haue the vertue of the ſters in theſe places myniſter the herbes vnder their influence, as is aforeſayde.</p>
+            </div>
+            <div n="Pisces" type="astrological_sign">
+               <p>
+                  <figure>
+                     <figDesc>depiction of Pisces: three fish</figDesc>
+                  </figure>
+               </p>
+               <p>PIſces is a Sygne of. 34, ſters, y<hi rend="sup">e</hi> which hath the herbe A<g ref="char:EOLhyphen"/>riſtoloci and all thynges vnder the in flue<g ref="char:cmbAbbrStroke">̄</g>ce of Iu<g ref="char:EOLunhyphen"/>piter, and in the thyrde degre ryſeth a ſterre called y<hi rend="sup">e</hi> ſhulder of the grete horſe, the whiche hathe all the kyn<g ref="char:EOLhyphen"/>des of the herbe Ariſtoloch, and all that are vnder Iupiter and Mars in the .iii. degree. Alſo Piſces ruleth the feete, and to haue the vertue of the ſterres brought to the feete by medecynes mini<g ref="char:EOLhyphen"/>ſterde as is before ſayde.</p>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <pb facs="tcp:25054:24" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> HERE BEGYNNETH the thyrde parte the which declareth by example howe ye ſhal brynge the vertue and nature of the heauens, and ſterres to what parte of the body that ye wyl, and firſt for the ſickeneſſe of the heade as ſayth Meſſahala.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen ye ſhall miniſter to any ſyckenes of the hed any kynd of medecines what ſo euer it be, fyrſt marke whe<g ref="char:cmbAbbrStroke">̄</g> the Moone is in Aries, and then myxe your me<g ref="char:EOLhyphen"/>decynes with ſome of theſe herbes, Stones, Gummes, or Mettalles, accordynge to the purpoſe of youre medecines, as are vnder the Sonne Mars or the ſygne of Aries, and yf it be aboute the .xxi. degre of Aries, ye ſhall myxe your medecynes with parte of theſe that are vnder Venus
+<pb facs="tcp:25054:25"/> and Mercurye, and ſo the Moone ſhall myniſter vnto the ſyckenes of the heade the influence and vertues of the Heauens and Sterres, the whiche hath domynation and influ<g ref="char:EOLhyphen"/>ence in theſe herbes and thynges ſo miniſtred vnto the health and amen<g ref="char:EOLunhyphen"/>dynge of all deſeaſes in the heade, and thus ye ſhall vnderſtande of al other partes of the bodye. Further<g ref="char:EOLhyphen"/>more ye ſhall vnderſtande for a ge<g ref="char:EOLhyphen"/>nerall rule, that ye ſhall not touche any member with fyre or Iron, the Moone beynge in the ſygne thereof at any tyme. Alſo notwithſtandinge it is good to gyue any other kynde of medecynes as Digeſtyues, Mi<g ref="char:EOLhyphen"/>tigatyffes, Comfortatyffes, Expul<g ref="char:EOLhyphen"/>ſyffes, Maturatyffes, Mundyfyca<g ref="char:EOLhyphen"/>tiffes, Reſtrictiffes, Aperityffes, Al<g ref="char:EOLhyphen"/>teratyffes, and Dyuertyffes, eyther by Fome<g ref="char:cmbAbbrStroke">̄</g>tacyon, Epithimaes, Sac<g ref="char:EOLhyphen"/>cellacions, Odoracio<g ref="char:cmbAbbrStroke">̄</g>s, Fumigatio<g ref="char:cmbAbbrStroke">̄</g>s Iuleppes, Siroppes, Infuſions,
+<pb facs="tcp:25054:25" rendition="simple:additions"/> Liniamentes, Oyntmentes, Cerotes Plaiſters, Electuaries, Confectio<g ref="char:cmbAbbrStroke">̄</g>s or any kynde of myniſtracion what ſo euer it be, and for the more readye knowledge hereof, I haue ſet a brife table to knowe what planette, hath moſt dominacio<g ref="char:cmbAbbrStroke">̄</g> in euery ſygne, that the thinges vnder them may be my<g ref="char:EOLhyphen"/>niſtred vnder theyr proper ſygne for euery pertyculer parte of the bodye as hereafter foloweth.</p>
+            <trailer>☞ FINIS</trailer>
+         </div>
+         <div type="table">
+            <pb facs="tcp:25054:26"/>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <g ref="char:leaf">❧</g> Aries the heade.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sonne.</cell>
+                     <cell> </cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>xxi. the nauel of Andromeda</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mars.</cell>
+                     <cell> </cell>
+                     <cell>Mercurie.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Taurus the necke.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Venus,</cell>
+                     <cell> </cell>
+                     <cell>Saturne.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>xvi. the heade of Algol.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Moone.</cell>
+                     <cell> </cell>
+                     <cell>Iupiter.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Gemini the armes, ſhulders, and handes.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mercury.</cell>
+                     <cell> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>iii. Aldebaran.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>The taile of the Dragon.</cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Cancer the breſt, longes and ſtomake.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Sonne</cell>
+                     <cell> </cell>
+                     <cell>Saturne.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>vii. the Gote.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Iupiter.</cell>
+                     <cell> </cell>
+                     <cell> Iupiter.</cell>
+                  </row>
+                  <pb facs="tcp:25054:26" rendition="simple:additions"/>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>xvii. the great Dogge.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Leo the herte, ſtomake, lyuer. and backe.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>The Sonne. xxii. the lytell Dogge.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mercurye.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Virgo the bowels and bottome of the ſtomake.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Mercury. xix. the Lyons herte.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Iupiter.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Libra the raynes, thyghes, and buttockes.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Venus, vii. the tayle of the greate Beare.</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:25054:27"/>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Saturne.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>xvi. the Rauens wynge.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mercurye.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>xvii. the vyrgyn ſpycke.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mercurie.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scorpio the genytalles and ma<g ref="char:EOLhyphen"/>trice or mother.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Iupiter.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Mars. iiii. the Sterre Alchameche.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Sagittary the ſhare bone and o<g ref="char:EOLhyphen"/>uer partes of the thyghes.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Iupiter. iii. the Elpheia,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Capricorne the knees.</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb facs="tcp:25054:27" rendition="simple:additions"/>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Iupiter.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Saturne. vii. the Scorpions herte.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Aquarye the calfe, and ſmall of the legges.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Venus.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Saturne. xvi. Vulture cadens.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mercurye.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Saturne.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>xiiii. the tayle of Capricorne.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mercurye.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Piſces the feete.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Iupiter.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Iupiter. iii. the ſhulder of the grate Horſe.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>Mars.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>ALſo knowe that ofte and many tymes the miniſtracion of me<g ref="char:EOLhyphen"/>dicines to the ſyckenes of the heade may not be prolonged to the Moone be in Aries, wherfore ye may then ſet
+<pb facs="tcp:25054:28"/> the Moone in Leo, or Sagittarye, mixinge the herbes of the head with theyr other medecines bycauſe of the concordance and tryplicite, of ſignes in their qualities. Furthermore if ye can not tarye the comminge of theſe two ſygnes, then at any tyme myxe your herbes of the heade with all o<g ref="char:EOLhyphen"/>ther kinde of medecines that ye wyl gyue for the head, and ſo ſhal alway the vertue of the heuens and ſterres be conueyed to the heade, and thus vnderſtande of the other ſygnes and partes of the bodye.</p>
+            <p>
+               <table>
+                  <head>
+                     <g ref="char:leaf">❧</g> A table of the triplicites of the ſignes and members of man.</head>
+                  <row>
+                     <cell>Aries.</cell>
+                     <cell rows="3">For the heade. The herte. The thyghes.</cell>
+                  </row>
+                  <row>
+                     <cell>Leo.</cell>
+                  </row>
+                  <row>
+                     <cell>Sagittarye.</cell>
+                  </row>
+                  <row>
+                     <cell>Taurus</cell>
+                     <cell rows="3">For the necke. The bowelles. The knees.</cell>
+                  </row>
+                  <row>
+                     <cell>Venus</cell>
+                  </row>
+                  <row>
+                     <cell>Capricorne.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:25054:28" rendition="simple:additions"/>Gemini.</cell>
+                     <cell rows="3">For the armes ſhulders and handes, the reynes. the legges.</cell>
+                  </row>
+                  <row>
+                     <cell>Libra.</cell>
+                  </row>
+                  <row>
+                     <cell>Aquarye.</cell>
+                  </row>
+                  <row>
+                     <cell>Cancer.</cell>
+                     <cell rows="3">The breſt and longes, the genitalles, and the feete.</cell>
+                  </row>
+                  <row>
+                     <cell>Scorpio.</cell>
+                  </row>
+                  <row>
+                     <cell>Piſces.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> Alſo knowe that there is a tri<g ref="char:EOLhyphen"/>plicite of the partes and members of man as there is in the ſygnes of heauen, ſo that many tymes may be miniſtred medicines to the one mem<g ref="char:EOLunhyphen"/>bre for the ſickenes of the other, as medecynes myniſtred to the herte or thyghes, helpethe the ſickenes of the head, and ſo forth as appereth in the table aboue ſayde.</p>
+            <p>
+               <seg rend="decorInit">A</seg>Lſo there is an other my<g ref="char:EOLhyphen"/>niſtracyon accordynge to the .xxviii. ma<g ref="char:cmbAbbrStroke">̄</g>ſions of the Moone, as when ye wyll miniſter any medecynes y<hi rend="sup">t</hi> is moyſt
+<pb facs="tcp:25054:29"/> of operacion for what purpoſe or to any parte of the bodye that ye wyll, ye ſhall conſyder when the Moone is in a moyſtye manſion, and then miniſter. Alſo the kinde of moiſt me<g ref="char:EOLhyphen"/>decines, are Digeſtiffes, Mollifica<g ref="char:EOLhyphen"/>tyffes, Maturatiffes, Alteratyffes, Mytygatiffes, Solutyffes, and ſo forth. And when the Moone is in a dry manſion, ye ſhall miniſter al dry medecines of operacion, whoſe pro<g ref="char:EOLhyphen"/>perties are for the moſt part to hold and reſtraine, to mitigate, to alter, &amp; to diuert. &amp;c. And when the Moone is in a temperate manſyon, ye ſhall conſerue helth &amp; comfort by al kinde of medecines, furthermore forgette not to mixe your medecines with the medecines aforeſaide belonginge to the ſterres and partes of mans body that the influe<g ref="char:cmbAbbrStroke">̄</g>ce of the heuens may be brought to theſe partes of the bo<g ref="char:EOLhyphen"/>dy, that ye do miniſter for, &amp; for this purpoſe here dothe folowe a table of
+<pb facs="tcp:25054:29" rendition="simple:additions"/> the manſyons of the Moone, decla<g ref="char:EOLhyphen"/>ringe the moyſtye, drye, &amp; temperate manſions, and the degres therto cor<g ref="char:EOLunhyphen"/>reſpondinge in all the .xii. ſygnes of Heauen.</p>
+            <list>
+               <item>☞ Aries. vii. temperate.</item>
+               <item>Aries. xx. temperate.</item>
+               <item>Taurus. ii. drye.</item>
+               <item>Taurus. xv. moyſt.</item>
+               <item>Taurus. xxviii. moyſte.</item>
+               <item>Gemini. xi. drye.</item>
+               <item>Gemini. xxiiii. temperate.</item>
+               <item>Cancer. vii. moyſte.</item>
+               <item>Cancer. xx. temperate moyſt.</item>
+               <item>Leo. ii. drye.</item>
+               <item>Leo. xv. moyſte.</item>
+               <item>Leo. xxviii. temperate.</item>
+               <item>Virgo. xi. moyſte.</item>
+               <item>Virgo. xxiiii. temperate.</item>
+               <item>Lybra. vii. temperate.</item>
+               <item>Libra. xx. moyſte.</item>
+               <item>Scorpio. ii. moyſte and colde.</item>
+               <item>Scorpio. xv. moyſte.</item>
+               <pb facs="tcp:25054:30"/>
+               <item>Scorpio. xxviii. drye.</item>
+               <item>Sagittarye. xi. moyſte.</item>
+               <item>Sagittarye. xxiiii. moyſte.</item>
+               <item>Capricorne. xiii. temperate.</item>
+               <item>Capricorne. xxvi. moyſte.</item>
+               <item>Aquarye. ii. temperate.</item>
+               <item>Aquarye. xv. temperate.</item>
+               <item>Aquarye. xxviii. drye.</item>
+               <item>Piſces. xi, drye.</item>
+               <item>Piſces. xxiiij. moyſte.</item>
+            </list>
+            <trailer>☞ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> IMPRYNTED AT LONDON IN FLETE<g ref="char:EOLhyphen"/>ſtrete at the ſigne of the George nexte to Saynte Dunſtones Churche by Wylly<g ref="char:EOLhyphen"/>am Powell.</p>
+            <p>In the yeare of our Lorde M. D. L. the .xx. day of Marche.</p>
+            <pb facs="tcp:25054:30"/>
+            <pb facs="tcp:25054:31"/>
+            <pb facs="tcp:25054:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
